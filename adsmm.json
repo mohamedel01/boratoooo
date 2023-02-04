@@ -1,7 +1,7 @@
 ////////////////////////////admob//////////////////////////////
 bannerIDBegin           bannerIDLast
 interstitialIDBegin               interstitialIDLast
-rewardIDBeginca-app-pub-3940256099942544/5224354917rewardIDlast
+rewardIDBegin          rewardIDlast
 
 FANbannerIDBegin            FANbannerIDLast
 FANinterstitialIDBegin          FANinterstitialIDLast
@@ -11,7 +11,7 @@ FANrewardIDBegin        FANrewardIDLast
 
 
 
-unitybannerIDBegin5149026unitybannerIDLast
+UnityAppIdIDBegin5149026UnityAppIdIDLast
 unitybannerIDBegin                   unitybannerIDLast
 unityinterstitialIDBeginInterstitial_AndroidunityinterstitialIDLast
 unityrewardIDBeginRewarded_AndroidunityrewardIDLast	
